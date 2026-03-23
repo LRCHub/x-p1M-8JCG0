@@ -1,0 +1,55 @@
+# JAONAAY – ติดเธอซะก่อน (Sweet Baby)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:22.19] So, I said "Hi" to her
+[00:24.67] She said "She ain't fuck with me"
+[00:27.30] I ain't gon' lie to ya
+[00:29.63] That's all fine to me
+[00:31.91] Can you be my sweet baby?
+[00:36.91] Ooh, sweet baby
+[00:44.41] 
+[00:42.08] Babygirl don't play too much
+[00:44.40] Imma tryna make you fall in love
+[00:46.85] Don't need no back and forth
+[00:49.35] I got time until the morn'
+[00:51.85] Can you be my sweet baby?
+[00:56.95] Ooh, sweet baby
+[01:04.45] 
+[01:01.98] Ooh, เธอน่ารักน่ามอง, baby mi amor
+[01:08.22] Got me on the floor
+[01:11.33] I wanna know what ya thinkin', ooh
+[01:16.04] I wanna know what you want, girl
+[01:32.04] 
+[01:21.38] เพราะฉันนั้นกลัวจะติดเธอซะก่อน
+[01:25.13] ติดแบบไม่ได้นอน ทั้งคืน til the morn'
+[01:30.10] กลางคืนต้องอยู่คนเดียวแล้วมันเหงา, ooh
+[01:35.92] Shawty, be my sweet baby
+[01:47.92] 
+[01:42.83] Ooh, เธอโปรดประทับใจ
+[01:45.78] สายตามันจุดเป็นพลุไฟ
+[01:48.07] โทษทีคงจะเผลอไป
+[01:50.75] ช่วยพูดสักคำให้ซึ้งใจ
+[01:53.59] เพราะมันก็คงไม่ควรจะบอก
+[01:55.93] แต่ฉันคงคิดถึงเธอตลอด
+[01:58.77] อยู่คนเดียวมานานแล้ว
+[02:08.77] 
+[02:02.56] Ooh, เธอน่ารักน่ามอง, baby mi amor
+[02:08.15] Got me on the floor
+[02:11.23] I wanna know what ya thinkin', ooh
+[02:16.46] I wanna know what you want, girl
+[02:32.46] 
+[02:21.35] เพราะฉันนั้นกลัวจะติดเธอซะก่อน
+[02:25.30] ติดแบบไม่ได้นอน ทั้งคืน til the morn'
+[02:30.06] กลางคืนต้องอยู่คนเดียวแล้วมันเหงา, ooh
+[02:35.68] Shawty, be my sweet baby
+[02:47.68] 
+[02:41.51] เพราะฉันนั้นกลัวจะติดเธอซะก่อน
+[02:45.28] ติดแบบไม่ได้นอน ทั้งคืน til the morn'
+[02:50.05] กลางคืนต้องอยู่คนเดียวแล้วมันเหงา, ooh
+[02:55.91] Shawty, be my sweet baby
+[02:59.23] Be my sweet baby, no, no
+[03:11.23] 
+[03:19.21] Be my sweet baby, no, no
+```
