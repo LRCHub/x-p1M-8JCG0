@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ติดเธอซะก่อน (Sweet Baby)",
+  "base_artist": "JAONAAY",
+  "createdAt": "2026-03-23T12:24:46.440560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ติดเธอซะก่อน (Sweet Baby)",
+      "artist": "JAONAAY",
+      "has_synced": true,
+      "path": "select/01_ติดเธอซะก่อน_(Sweet_Baby)_JAONAAY.lrc"
+    }
+  ]
+}
